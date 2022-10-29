@@ -1,0 +1,6 @@
+Resolusi Ku Untuk Tahun 2023
+-Belajar HTML dan CSS
+-Belajar Javascript Dasar, OOP, dan DOM
+-Belajar PHP Dasar dan PHP OOP
+-Belajar MySQL Dasar
+-Belajar Laravel
