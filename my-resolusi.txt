@@ -4,3 +4,5 @@ Resolusi Ku Untuk Tahun 2023
 -Belajar PHP Dasar dan PHP OOP
 -Belajar MySQL Dasar
 -Belajar Laravel
+-Belajar React JS
+-Belajar Vue JS
