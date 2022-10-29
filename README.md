@@ -1,2 +1,2 @@
 # my-resolusi
-Repository untuk menyimpan rencana ku di masa depan
+Repository untuk menyimpan rencana ku di Tahun 2023 
